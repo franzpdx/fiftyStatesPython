@@ -5,7 +5,7 @@ This is a Python program in which the user tries to name the fifty United States
 
 - **Example**: Here's an example of the program running:
 
-  ![Program Example Image](/images/stategamepic.png)
+  ![Program Example Image](/doc/stategamepic.png)
   
 ## Function
 
